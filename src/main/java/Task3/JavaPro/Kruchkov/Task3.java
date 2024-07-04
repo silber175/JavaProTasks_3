@@ -2,6 +2,7 @@ package Task3.JavaPro.Kruchkov;
 
 import java.util.LinkedList;
 
+
 public class Task3 {
     public static void main(String[] args) {
         LinkedList<Runnable> taskList = new LinkedList<>();

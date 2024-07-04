@@ -11,7 +11,6 @@ public class Fraction {
         this.num = num;
         this.denum = denum;
     }
-   
     public void setNum(int num)    {
         this.num = num;
     }
